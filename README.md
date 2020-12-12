@@ -1,2 +1,2 @@
 # workflow-setup
-powershell script to setup my personal workflow
+simple powershell script to setup my new PC.
