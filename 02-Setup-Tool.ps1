@@ -4,6 +4,7 @@ $ToolList = @{
     FileLocatorPro = 'https://www.mythicsoft.com/filelocatorpro/'
     curl = 'https://curl.haxx.se/download.html'
     WinRAR = 'https://www.rarlab.com/download.htm'
+    aws = 'https://aws.amazon.com/cli/'
 }
 
 $ToolList.Keys | ForEach-Object {
